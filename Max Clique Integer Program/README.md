@@ -29,9 +29,8 @@ Let $G = (V, E)$ be an undirected graph with vertex set $V$ and edge set $E$.
 **Decision Variables:**
 
 Let  
-$$
-x_i = \text{1 if node } i \text{ is in the clique, 0 otherwise}
-$$
+
+$$x_i \text{is a binary indiactor if node i is in the clique}$$ 
 
 **Objective Function:**
 
