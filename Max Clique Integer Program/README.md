@@ -29,10 +29,12 @@ Let $G = (V, E)$ be an undirected graph with vertex set $V$ and edge set $E$.
 **Decision Variables:**
 
 Let  
-$$x_i = \begin{cases} 
+$$
+x_i = \begin{cases} 
 1 & \text{if node } i \text{ is included in the clique} \\
 0 & \text{otherwise}
-\end{cases}$$
+\end{cases}
+$$
 
 **Objective Function:**
 
