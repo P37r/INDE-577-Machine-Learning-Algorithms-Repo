@@ -24,15 +24,13 @@ This implementation solves the problem using **Integer Programming (IP)** via th
 
 ## Integer Program Formulation
 
-Let $ G = (V, E) $ be an undirected graph with vertex set $ V $ and edge set $ E $.
+Let $G = (V, E)$ be an undirected graph with vertex set $V$ and edge set $E$.
 
 **Decision Variables:**
 
 Let  
-$$ x_i = \begin{cases} 
-1 & \text{if node } i \text{ is included in the clique} \\
-0 & \text{otherwise}
-\end{cases} $$
+
+$$x_i \text{ is a binary indiactor if node i is in the clique}$$ 
 
 **Objective Function:**
 
