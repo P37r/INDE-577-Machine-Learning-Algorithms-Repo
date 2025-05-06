@@ -30,10 +30,7 @@ Let $G = (V, E)$ be an undirected graph with vertex set $V$ and edge set $E$.
 
 Let  
 $$
-x_i = \begin{cases} 
-1 & \text{if node } i \text{ is included in the clique} \\
-0 & \text{otherwise}
-\end{cases}
+x_i = \text{1 if node } i \text{ is in the clique, 0 otherwise}
 $$
 
 **Objective Function:**
