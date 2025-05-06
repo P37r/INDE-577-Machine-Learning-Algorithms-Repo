@@ -24,7 +24,7 @@ This implementation solves the problem using **Integer Programming (IP)** via th
 
 ## Integer Program Formulation
 
-Let $ G = (V, E) $ be an undirected graph with vertex set $ V $ and edge set $ E $.
+Let $G = (V, E)$ be an undirected graph with vertex set $V$ and edge set $E$.
 
 **Decision Variables:**
 
