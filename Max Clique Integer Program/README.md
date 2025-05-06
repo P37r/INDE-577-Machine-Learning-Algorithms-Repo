@@ -30,7 +30,7 @@ Let $G = (V, E)$ be an undirected graph with vertex set $V$ and edge set $E$.
 
 Let  
 
-$$x_i \text{is a binary indiactor if node i is in the clique}$$ 
+$$x_i \text{ is a binary indiactor if node i is in the clique}$$ 
 
 **Objective Function:**
 
